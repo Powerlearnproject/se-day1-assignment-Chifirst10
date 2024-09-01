@@ -114,6 +114,7 @@ Integrated Development Environments (IDEs):IDEs provide a comprehensive platform
 Examples of IDEs:Eclipse, Visual studio, NetBeans etc.
 
 Version Control Systems (VCS): VCS track changes to code, allowing multiple developers to collaborate and maintain a record of modifications. They offer features like:
+
 - Version history and tracking
 - Branching and merging
 - Conflict resolution
@@ -147,18 +148,23 @@ Common challenges faced by software engineers:
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. Unit Testing: It tests individual components or units of code (functions, methods, classes) and ensures each unit works correctly in isolation
+
 Importance: Identifies bugs early, reduces debugging time, and ensures individual components work as expected
 
 2. Integration Testing: It tests how units work together (interactions, interfaces, APIs)and ensure components integrate correctly and work as a whole
+
 Importance: Reveals integration issues, ensures data flows correctly, and identifies system-level bugs
 
 3. System Testing: It tests the entire software system, end-to-end and ensures the system meets requirements, works as expected, and is stable.
+
  Importance: Validates system functionality, identifies system-level issues, and ensures overall quality
 
 4. Acceptance Testing: It tests the system from a user's perspective (functional, usability, performance). It also ensures the system meets user expectations and requirements
+
 Importance: Validates user acceptance, ensures system meets business needs, and identifies usability issues
 
 These testing types are important because they:
+
 - Ensure software quality and reliability
 - Identify bugs and issues early, reducing debugging time and costs
 - Validate software functionality and performance.
@@ -172,6 +178,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs.
 Prompt engineering is important in AI because :
+
 - It improves accuracy .
 -It helps to unlock the full potential of AI models, enabling more sophisticated applications of AI.
 - It provide more informative responses which support better decision-making.
@@ -180,7 +187,9 @@ Prompt engineering is important in AI because :
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague prompt: What are the advantages of Artificial intelligence?
-Clear/Improved prompt: What are the advantages of Artificial intelligence in the banking sector?
+Answer:
+Example of a Vague prompt - What are the advantages of Artificial intelligence?
+
+Clear/Improved prompt- What are the advantages of Artificial intelligence in the banking sector?
 
 The Clear/ Improved prompt will allow chatgpt to give a more specific answer of the advantages of Artificial intelligence in the banking sector compared to the vague prompt which will allow chatgpt to give a general overview to the question.
